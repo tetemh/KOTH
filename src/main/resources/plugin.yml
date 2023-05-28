@@ -1,0 +1,7 @@
+  name: KOTH
+  main: eu.tetemh.koth.Main
+  version: 0.1
+  api-version: 1.19
+  commands:
+    koth:
+      description: All Commands for KOTH
